@@ -10,6 +10,7 @@ The archive serves as a transparent record for the security community and the pu
   - `chat_exports/`: Official conversation logs from OpenAI's servers.
   - `correspondence/`: Screenshots of communication attempts.
   - `technical_analysis/`: Model-generated analysis of the flaw's characteristics.
+  - `video/`: Description and links to the video demonstration.
 - **`/timeline/`**: A detailed chronology of disclosure attempts.
 - **`/method/`**: A technical description of the observed vulnerability.
 
