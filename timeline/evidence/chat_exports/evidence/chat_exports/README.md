@@ -1,8 +1,8 @@
 # Official Data Export: Proof of Privilege Escalation
 
 ## File
-- **Name:** `export_[TIMESTAMP].zip` (14 MB)
-- **Origin:** Downloaded directly from OpenAI's official data export tool (`https://platform.openai.com/account/export`).
+- **Name:** `48884824c4574b080fe8e98ed6b6b3c877fbc702043f2907ae286aa1d2804176-2025-12-02-20-14-49-c2083944d99e4840a13b73e4cbb36d44.zip` (14 MB)
+- **Origin:** Downloaded directly from OpenAI's official data export tool (`https://platform.openai.com/account/export`). The filename follows OpenAI's standard export naming convention (hash-timestamp-uuid).
 - **Content:** Complete account data export provided by OpenAI, covering the anomalous session.
 - **Status:** Unmodified, original file as provided by the vendor.
 
