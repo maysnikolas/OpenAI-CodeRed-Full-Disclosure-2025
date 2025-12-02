@@ -10,7 +10,7 @@ A logic flaw in OpenAI's session handling system allows a free-tier account to b
 
 ## Observed Trigger Sequence
 1.  User creates a new chat.
-2.  User's **first message** contains a clear intent to process a PDF (e.g., "изучи пдф", "analyze pdf").
+2.  User's **first message** contains a clear intent to process a PDF (e.g., "изучи пдф", "study the pdf").
 3.  User's **second message** is a PDF file attachment.
 4.  **Result:** Session's feature flags are elevated for its entire duration.
 
